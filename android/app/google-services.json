@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758788665844",
+    "project_id": "kullanicigiris-f545a",
+    "storage_bucket": "kullanicigiris-f545a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758788665844:android:3e4b07902a16305dcac9a1",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_WBMn6t2-kQB4HYtF-h_1xmPPb7OvpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
