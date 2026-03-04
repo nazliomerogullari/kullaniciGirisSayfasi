@@ -1,3 +1,4 @@
-![kullaniciGiris1](https://github.com/user-attachments/assets/93e0bd2a-e0c0-4c48-a313-ad0df14cb433)
-
-
+<p align="center">
+  <img src="kullaniciGiris1.jpeg" width="300" alt="Giriş Sayfası" style="margin-right: 15px;">
+  <img src="kullaniciGiris2.jpeg" width="300" alt="Kayıt Sayfası">
+</p>
