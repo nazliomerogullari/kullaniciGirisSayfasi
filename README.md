@@ -1,2 +1,4 @@
-![kullaniciGiris1](https://github.com/user-attachments/assets/87e310cd-622f-46f4-95fc-7fc110c7dce7)
-![kullaniciGiris2](https://github.com/user-attachments/assets/09444c01-f365-439e-8f97-20ee2683ae45)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87e310cd-6221-46f4-95fc-71c110c7dce7" width="300" alt="kullaniciGiris1">
+  <img src="https://github.com/user-attachments/assets/03444c01-f305-439e-8f97-28ee2683ae45" width="300" alt="kullaniciGiris2">
+</p>
